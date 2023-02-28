@@ -1,0 +1,2 @@
+# .github
+BOUN SWE MSc.
